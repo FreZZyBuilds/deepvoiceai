@@ -1,0 +1,31 @@
+# Netlify Configuration for DeepVoice Pro
+
+[build]
+command = "npm install && npm run build"
+publish = "build"
+
+[build.environment]
+NODE_VERSION = "18"
+PYTHON_VERSION = "3.11"
+
+[functions]
+node_bundler = "esbuild"
+directory = "functions"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+
+[[headers]]
+for = "/api/*"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
+Access-Control-Allow-Headers = "Content-Type, Authorization"
+
+[context.production]
+environment = { REACT_APP_API_URL = "https://your-railway-backend.up.railway.app/api" }
+
+[context.deploy-preview]
+environment = { REACT_APP_API_URL = "https://your-railway-backend.up.railway.app/api" }
