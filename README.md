@@ -284,13 +284,7 @@ deepvoice-pro-testsprite/
 ├── netlify.toml                                  # Netlify frontend config
 ├── README.md                                     # This file
 ├── LICENSE                                       # MIT License
-└── GUIDES/                                       # Deployment and usage guides
-    ├── START_HERE.txt                            # Quick start guide
-    ├── NETLIFY_DEPLOYMENT_GUIDE.md               # Frontend deployment
-    ├── DEPLOYMENT_STEP_BY_STEP.md                # Complete deployment guide
-    ├── TWITTER_POSTS.txt                         # Social media content
-    ├── DISCORD_TEMPLATE.md                       # Community submission template
-    └── CAPCUT_GUIDE.md                           # Demo video creation guide
+
 ```
 
 ---
