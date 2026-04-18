@@ -1,8 +1,0 @@
-.about { min-height: 100vh; background: white; }
-.about-header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 20px; text-align: center; }
-.about-content { max-width: 1000px; margin: 0 auto; padding: 40px 20px; }
-.about-section { margin-bottom: 60px; }
-.about-section h2 { font-size: 2rem; color: #667eea; margin-bottom: 20px; }
-.about-section p { font-size: 1.1rem; line-height: 1.8; color: #333; }
-.performance { display: grid; gap: 20px; background: #f8f9fa; padding: 30px; border-radius: 10px; }
-.perf-item { display: flex; justify-content: space-between; padding: 15px 0; border-bottom: 1px solid #ddd; }

@@ -1,5 +1,0 @@
-{
-  "returncode": 0,
-  "stdout": "\"Abbildname\",\"PID\",\"Sitzungsname\",\"Sitz.-Nr.\",\"Speichernutzung\"\n\"node.exe\",\"10648\",\"Console\",\"1\",\"10.472 K\"\n\"node.exe\",\"17024\",\"Console\",\"1\",\"11.808 K\"\n\"node.exe\",\"10380\",\"Console\",\"1\",\"1.776 K\"\n\"node.exe\",\"7420\",\"Console\",\"1\",\"20.320 K\"\n\"node.exe\",\"23504\",\"Console\",\"1\",\"14.124 K\"\n\"node.exe\",\"6792\",\"Console\",\"1\",\"37.176 K\"\n\"node.exe\",\"19856\",\"Console\",\"1\",\"55.536 K\"\n\"node.exe\",\"19408\",\"Console\",\"1\",\"49.476 K\"\n\"node.exe\",\"23068\",\"Console\",\"1\",\"322.184 K\"\n\"node.exe\",\"20204\",\"Console\",\"1\",\"105.168 K\"\n",
-  "stderr": ""
-}

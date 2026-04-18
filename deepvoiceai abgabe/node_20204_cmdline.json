@@ -1,5 +1,0 @@
-{
-  "returncode": 0,
-  "stdout": "\n\nNode,CommandLine\n\nMIGHEL,\"C:\\Program Files\\nodejs\\node.EXE\" C:\\Users\\Mighel\\AppData\\Local\\npm-cache\\_npx\\8ddf6bea01b2519d\\node_modules\\@testsprite\\testsprite-mcp\\dist\\index.js generateCodeAndExecute\n\n",
-  "stderr": ""
-}
