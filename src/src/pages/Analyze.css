@@ -1,0 +1,4 @@
+.analyze { min-height: 100vh; background: #f8f9fa; }
+.analyze-header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 20px; text-align: center; }
+.analyze-header h1 { font-size: 2.5rem; margin: 0 0 10px 0; }
+.analyze-content { max-width: 1000px; margin: 40px auto; padding: 0 20px; }
