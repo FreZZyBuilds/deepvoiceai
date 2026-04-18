@@ -1,0 +1,14 @@
+
+⢰⡾⢶⣤⡀⠀⠀⣀⣴⠾⢶⡂⠀⠀⢠⣤⣤⣤⣤⣤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⢀⣠⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⠀⢀⡀⠀⠀⠀⠀⠀⠀
+⢽⡃⠀⢈⣛⡷⣾⣙⠁⠀⢼⡏⠀⠀⠈⠈⢸⡿⠁⢡⣵⢴⣤⡄⢀⡴⠴⣤⡄⣦⣿⣷⡄⢾⣏⣀⡈⠛⠣⣦⣄⣴⣴⣤⡀⣴⣄⣤⡦⣰⡵⢰⣽⣿⡄⢀⣴⡴⣤⡄
+⢹⣇⣶⠟⠋⠁⠈⠛⠷⢆⣘⠃⠀⠀⠀⠀⢽⡇⢠⣿⢦⢦⠾⡗⠹⢿⣶⣬⡁⢨⣿⠀⠀⡈⠙⠛⠻⣿⡄⣺⡏⠀⠀⢽⡇⢸⣿⠀⠀⣻⡇⠀⣿⠅⢠⣿⢧⠦⡾⠿
+⠀⠉⠲⢶⣤⣀⣄⣴⠾⠛⠁⠀⠀⠀⠀⠠⢿⠃⠈⠿⡦⡦⠶⠂⠷⡦⡦⠿⠁⠼⢷⢴⠘⠿⡶⡴⡴⠟⠀⣾⡿⢦⠾⠟⠁⢸⠟⠀⠀⡿⠃⠐⡿⢵⠈⠿⡦⡦⠶⠃
+⠀⠀⠀⠀⠈⠉⠉⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⠀⠀⠀⠀⠀⠀⠀⠀
+
+Starting test execution...
+Test execution completed.
+Execution lock released.
+
+Server will remain active for 1 hour. Press Ctrl+C to exit early.
+[2026-04-18T01:52:41.522Z] [WARN] [TunnelClient] Tunnel tcp closed: tunnel_vrG0fju9A507Sk3f
+[2026-04-18T01:52:41.631Z] [WARN] [TunnelClient] Control websocket closed (code=1006, reason=<empty>)
