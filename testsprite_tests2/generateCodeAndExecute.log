@@ -1,0 +1,826 @@
+
+⢰⡾⢶⣤⡀⠀⠀⣀⣴⠾⢶⡂⠀⠀⢠⣤⣤⣤⣤⣤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⢀⣠⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⠀⢀⡀⠀⠀⠀⠀⠀⠀
+⢽⡃⠀⢈⣛⡷⣾⣙⠁⠀⢼⡏⠀⠀⠈⠈⢸⡿⠁⢡⣵⢴⣤⡄⢀⡴⠴⣤⡄⣦⣿⣷⡄⢾⣏⣀⡈⠛⠣⣦⣄⣴⣴⣤⡀⣴⣄⣤⡦⣰⡵⢰⣽⣿⡄⢀⣴⡴⣤⡄
+⢹⣇⣶⠟⠋⠁⠈⠛⠷⢆⣘⠃⠀⠀⠀⠀⢽⡇⢠⣿⢦⢦⠾⡗⠹⢿⣶⣬⡁⢨⣿⠀⠀⡈⠙⠛⠻⣿⡄⣺⡏⠀⠀⢽⡇⢸⣿⠀⠀⣻⡇⠀⣿⠅⢠⣿⢧⠦⡾⠿
+⠀⠉⠲⢶⣤⣀⣄⣴⠾⠛⠁⠀⠀⠀⠀⠠⢿⠃⠈⠿⡦⡦⠶⠂⠷⡦⡦⠿⠁⠼⢷⢴⠘⠿⡶⡴⡴⠟⠀⣾⡿⢦⠾⠟⠁⢸⠟⠀⠀⡿⠃⠐⡿⢵⠈⠿⡦⡦⠶⠃
+⠀⠀⠀⠀⠈⠉⠉⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⠀⠀⠀⠀⠀⠀⠀⠀
+
+Starting test execution...
+Test execution completed.
+Execution lock released.
+
+Server will remain active for 1 hour. Press Ctrl+C to exit early.
+[2026-04-18T01:34:00.851Z] [WARN] [TunnelClient] Control websocket closed (code=1006, reason=<empty>)
+[2026-04-18T01:34:00.753Z] [WARN] [TunnelClient] Tunnel tcp closed: tunnel_eAIY0RkNernrLGB6
+[2026-04-18T01:36:50.013Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:50.537Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:51.056Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:51.572Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:52.090Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:52.607Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:53.129Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:53.655Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:54.177Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:54.714Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:55.243Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:55.759Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:56.288Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:56.819Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:57.345Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:57.883Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:36:58.462Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:36:58.461Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:37:01.995Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:02.525Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:03.065Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:03.584Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:04.104Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:04.644Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:05.178Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:05.709Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:06.242Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:06.774Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:07.300Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:07.834Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:08.349Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:08.867Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:09.398Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:09.921Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:10.485Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:37:10.479Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:37:20.348Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:20.872Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:21.463Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:22.001Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:22.535Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:23.071Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:23.607Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:24.134Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:24.672Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:25.206Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:25.762Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:26.289Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:26.826Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:27.374Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:27.910Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:28.488Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:37:28.486Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:37:31.999Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:32.517Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:33.030Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:33.548Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:34.064Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:34.583Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:35.102Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:35.619Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:36.136Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:36.653Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:37.169Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:37.686Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:38.210Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:38.736Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:39.252Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:39.772Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:40.293Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:37:40.294Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:37:43.995Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:44.515Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:45.048Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:45.576Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:46.099Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:46.630Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:47.161Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:47.688Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:48.210Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:48.735Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:49.262Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:49.796Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:50.320Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:50.854Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:51.380Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:51.894Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:37:52.422Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:37:52.423Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:39:13.118Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:13.628Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:14.156Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:14.681Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:15.198Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:15.714Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:16.231Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:16.750Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:17.265Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:17.783Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:18.302Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:18.816Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:19.353Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:19.868Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:20.400Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:20.919Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:21.449Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:39:21.450Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:39:24.976Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:25.488Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:26.006Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:26.524Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:27.036Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:27.555Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:28.076Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:28.589Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:29.111Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:29.628Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:30.137Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:30.658Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:31.190Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:31.708Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:32.240Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:32.760Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:33.275Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:39:33.275Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:39:36.990Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:37.515Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:38.041Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:38.563Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:39.085Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:39.601Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:40.120Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:40.646Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:41.168Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:41.682Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:42.197Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:42.732Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:43.251Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:43.768Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:44.285Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:44.800Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:45.319Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:39:45.320Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:39:48.984Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:49.519Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:50.034Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:50.558Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:51.070Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:51.590Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:52.105Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:52.623Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:53.137Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:53.658Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:54.172Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:54.693Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:55.215Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:55.741Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:56.257Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:56.786Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:39:57.310Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:39:57.310Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:40:00.989Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:01.514Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:02.033Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:02.549Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:03.066Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:03.579Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:04.097Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:04.613Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:05.134Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:05.645Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:06.165Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:06.683Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:07.208Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:07.717Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:08.241Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:08.754Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:09.286Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:40:09.286Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:40:12.986Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:13.504Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:14.020Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:14.531Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:15.052Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:15.572Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:16.091Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:16.606Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:17.122Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:17.642Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:18.157Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:18.673Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:19.188Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:19.710Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:20.225Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:20.736Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:21.251Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:40:21.251Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:40:24.993Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:25.506Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:26.030Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:26.547Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:27.064Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:27.590Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:28.116Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:28.634Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:29.167Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:29.682Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:30.194Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:30.715Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:31.235Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:31.751Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:32.266Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:32.778Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:33.298Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:40:33.298Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:40:36.980Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:37.505Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:38.022Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:38.537Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:39.056Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:39.576Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:40.091Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:40.622Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:41.143Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:41.658Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:42.175Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:42.696Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:43.208Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:43.726Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:44.242Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:44.761Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:45.285Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:40:45.284Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:40:49.035Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:49.550Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:50.063Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:50.589Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:51.100Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:51.614Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:52.130Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:52.659Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:53.192Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:53.718Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:54.241Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:54.767Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:55.285Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:55.801Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:56.316Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:40:57.086Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:40:57.086Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:41:00.977Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:01.497Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:02.009Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:02.572Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:03.092Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:03.606Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:04.127Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:04.643Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:05.157Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:05.678Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:06.195Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:06.707Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:07.227Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:07.743Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:08.261Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:08.776Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:09.302Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:41:09.303Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:41:12.998Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:13.518Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:14.032Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:14.547Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:15.065Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:15.581Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:16.099Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:16.615Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:17.132Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:17.650Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:18.165Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:18.684Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:19.202Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:19.717Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:20.234Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:20.750Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:21.272Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:41:21.273Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:41:24.977Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:25.507Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:26.024Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:26.559Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:27.272Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:27.813Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:28.331Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:28.858Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:29.377Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:29.890Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:30.412Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:30.932Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:31.475Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:32.003Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:32.527Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:33.072Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:41:33.068Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:41:36.991Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:37.513Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:38.033Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:38.549Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:39.064Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:39.582Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:40.106Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:40.631Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:41.152Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:41.671Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:42.199Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:42.715Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:43.232Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:43.752Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:44.265Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:44.786Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:45.301Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:41:45.301Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:41:48.987Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:49.503Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:50.021Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:50.535Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:51.053Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:51.570Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:52.092Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:52.626Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:53.156Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:53.670Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:54.191Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:54.708Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:55.227Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:55.741Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:56.262Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:56.776Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:41:57.298Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:41:57.297Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:42:00.995Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:01.510Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:02.028Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:02.548Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:03.065Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:03.578Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:04.097Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:04.615Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:05.134Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:05.650Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:06.164Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:06.682Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:07.201Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:07.719Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:08.241Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:08.768Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:09.287Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:42:09.287Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:42:12.976Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:13.492Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:14.005Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:14.517Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:15.039Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:15.555Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:16.071Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:16.587Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:17.109Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:17.643Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:18.155Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:18.673Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:19.189Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:19.708Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:20.227Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:20.743Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:21.270Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:42:21.271Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:42:24.999Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:25.510Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:26.026Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:26.545Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:27.064Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:27.580Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:28.095Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:28.614Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:29.132Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:29.650Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:30.160Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:30.688Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:31.198Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:31.710Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:32.232Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:32.747Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:33.262Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:42:33.263Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:42:36.982Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:37.515Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:38.036Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:38.554Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:39.074Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:39.607Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:40.123Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:40.641Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:41.155Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:41.672Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:42.198Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:42.724Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:43.243Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:43.758Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:44.279Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:44.791Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:45.317Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[2026-04-18T01:42:45.316Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:42:48.980Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:49.500Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:50.022Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:50.536Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:51.062Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:51.578Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:52.096Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:52.614Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:53.650Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:53.131Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:54.164Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:54.682Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:55.198Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:55.713Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:56.224Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:56.751Z] [ERROR] checkPortListening tcp error: 3000 localhost
+AggregateError
+[2026-04-18T01:42:57.269Z] [ERROR] checkPortListening http check failed: http://localhost:3000/ TypeError: fetch failed
+[2026-04-18T01:42:57.269Z] [ERROR] checkPortListening failed (tcp + http): 3000 localhost
+[32mTest execution completed[0m
+The AI assistant will generate a report for you.
